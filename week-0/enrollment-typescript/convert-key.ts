@@ -1,6 +1,6 @@
 import bs58 from 'bs58';
 
-const privateKeyString = "PRIVATE_KEY";
+const privateKeyString = "";
 
 try {
     const decoded = bs58.decode(privateKeyString);
