@@ -84,6 +84,6 @@ idlgen!({
   ],
 
   "metadata": {
-    "address": "WBAQSygkwMox2VuWKU133NxFrpDZUBdvSBeaBEue2Jq"
+    "address": "ADcaide4vBtKuyZQqdU689YqEGZMCmS4tL35bdTv9wJa"
   }
 });

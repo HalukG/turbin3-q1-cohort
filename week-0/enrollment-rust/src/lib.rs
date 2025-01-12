@@ -292,7 +292,7 @@ mod tests {
     
         // If update failed, try complete
         let complete_args = CompleteArgs {
-            github: b"HalukG".to_vec()  // Replace with your actual GitHub username
+            github: b"HalukG".to_vec()
         };
     
         let complete_tx = WbaPrereqProgram::complete(
