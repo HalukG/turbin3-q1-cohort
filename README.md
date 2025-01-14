@@ -39,6 +39,6 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 ## Progress Tracker
 
-- [ ] Setup
-- [ ] Prereq-Typescript
-- [ ] Prereq-Rust
+- [X] Setup
+- [X] Prereq-Typescript
+- [X] Prereq-Rust
